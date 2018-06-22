@@ -1,0 +1,77 @@
+
+
+ *{ margin:0; padding:0; font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;}
+.clear{ clear:both;}
+.fl{ float:left;}
+.fr{ float:right;}
+img{ border:none;}
+a{ text-decoration:none;}
+a:hover{ text-decoration:underline;}
+li{ list-style-type:none;}
+.ofh{overflow:hidden;}
+.center{ text-align:center;}
+.em{ text-indent:2em;}
+.p5{ padding:5px;}
+body{ background:url(../images/bj.jpg) top center fixed no-repeat;}
+
+ .con{ width:1050px; padding:10px; height:auto; margin:10px auto; background:#eee;}
+
+
+.logo{ width:1030px; height:auto; padding:10px; margin:10px auto; border-bottom:3px solid #075905;text-align:center;color:#151e25; }
+.logo h1{ float:left; padding-left:20px;font-size:35px; line-height:60px; color:#075905; font-family:Verdana, Geneva, sans-serif;}
+.logo h2{ padding-top:30px; float:right;font-size:22px; line-height:90px; color:#075905; font-family:Verdana, Geneva, sans-serif;}
+
+.nav{ width:200px; height:auto; padding:10px; float:left;background-color:#075905;-moz-border-radius:5px;border-radius:5px;}
+.nav ul{ }
+.nav li{ width:170px;  float:left; padding:15px; text-align:center; }
+.nav li a{ font-size:16px; line-height:30px; color:#eee;}
+.nav li a:hover{ color:#fff; text-decoration:none;}
+.nav li:hover{ background-color:#a00}
+.nav li:hover a{ color:#fff;}
+
+
+
+
+.banner{ width:800px; height:auto; margin:5px auto;}
+
+
+.main{ width:800px; height:auto; float:right; font-size:14px; line-height:24px; color:#555;}
+.main h2{font-size:18px; line-height:46px; color:#075905;}
+.main p{font-size:14px; line-height:24px; color:#555; padding:5px 0px;}
+.main p a{ color:#333;}
+
+.Durham_list{ width:800px; height:auto; margin:10px auto; }
+.Durham_list li{ width:250px;height:auto; float:left; margin:5px; }
+.Durham_list li:hover{}
+.Durham_list li img{ width:250px;height:200px;}
+.Durham_list p{font-size:14px; line-height:25px; color:#333; text-align:center;}
+.Durham_list h3{font-size:16px; line-height:36px; color:#075905; text-align:center;}
+
+.Products{width:800px; height:auto; margin:5px auto;}
+.Productsdiv{width:380px; height:auto; float:left; margin:5px;}
+.Productsdiv p{font-size:16px; line-height:32px; color:#333;}
+
+
+.Products_title{ width:380px;float:left; height:50px; margin:10px auto; border-bottom:1px dashed #093;font-size:24px; line-height:50px; color:#fff; text-align:center;}
+.Products_title h2{font-size:24px; line-height:50px; color:#093;}
+
+
+
+.foot{ width:1050px; height:50px; margin:10px auto; padding-top:10px; border-top:3px solid #075905; text-align:center; font-size:14px; line-height:24px; color:#075905;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
